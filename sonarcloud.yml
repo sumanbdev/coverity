@@ -26,4 +26,4 @@ jobs:
         with:
           organization: "<sumanbdev>"       
           projectKey: "<sumanbdev_coverity>"       
-          token: ${{ secrets.SONAR_TOKEN }}
+          token: ${{ secrets.3d37da5528ac161fc0a18a9ec2008a43846ba4e8 }}
